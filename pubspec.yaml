@@ -1,6 +1,6 @@
 name: crop_edge_detection
 description: A flutter plugin to detect edges of objects, scan paper, detect corner, detect rectangle. It allows cropping of the detected object image and returns the path of the cropped image.
-version: 1.0.0
+version: 1.0.1
 author: Faisal Ramdan <faisalramdan.id@gmail.com>
 homepage: https://github.com/anagatadev/crop_edge_detection
 

@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'crop_edge_detection'
-  s.version          = '1.0.4'
+  s.version          = '1.0.2'
   s.summary          = 'Plugin to detect edges of objects'
   s.description      = <<-DESC
 Plugin to detect edges of objects

@@ -24,7 +24,7 @@ class CropActivity : BaseActivity(), ICropView.Proxy {
 
     override fun initPresenter() {
         mPresenter = CropPresenter(this, this)
-        mPresenter.crop()
+        // mPresenter.crop()
     }
 
     override fun getPaper(): ImageView = paper
@@ -48,7 +48,7 @@ class CropActivity : BaseActivity(), ICropView.Proxy {
 
         if (item.itemId == R.id.action_label) {
             if(item.title == applicationContext.getString(R.string.next)){
-                item.title = "Done"
+                item.title = "Save"
                 mPresenter.crop()
                 return true
             }

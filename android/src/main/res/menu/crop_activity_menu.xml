@@ -2,6 +2,6 @@
   xmlns:app="http://schemas.android.com/apk/res-auto">
 <item
     android:id="@+id/action_label"
-    android:title="@string/save"
+    android:title="@string/next"
     app:showAsAction="always"/>
 </menu>

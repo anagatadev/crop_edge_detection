@@ -28,7 +28,7 @@ String imagePath = await CropEdgeDetection.detectEdge;
 ## Demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anagatadev/crop_edge_detection/master/screenshots/demo.gif" alt="Demo" style="margin:auto" width="372" height="686">
+  <img src="https://raw.githubusercontent.com/faisalramdan17/crop_edge_detection/master/screenshots/demo.gif" alt="Demo" style="margin:auto" width="372" height="686">
 </p>
 
 ## Screenshots 
@@ -39,16 +39,16 @@ String imagePath = await CropEdgeDetection.detectEdge;
    <table>
       <tr>
          <td style="text-align: center">
-            <img src="https://raw.githubusercontent.com/anagatadev/crop_edge_detection/master/screenshots/android/1.png" width="200"/>
+            <img src="https://raw.githubusercontent.com/faisalramdan17/crop_edge_detection/master/screenshots/android/1.jpg" width="200"/>
          </td>
          <td style="text-align: center">
-            <img src="https://raw.githubusercontent.com/anagatadev/crop_edge_detection/master/screenshots/android/2.png" width="200" />
+            <img src="https://raw.githubusercontent.com/faisalramdan17/crop_edge_detection/master/screenshots/android/2.jpg" width="200" />
          </td>
          <td style="text-align: center">
-            <img src="https://raw.githubusercontent.com/anagatadev/crop_edge_detection/master/screenshots/android/3.png" width="200"/>
+            <img src="https://raw.githubusercontent.com/faisalramdan17/crop_edge_detection/master/screenshots/android/3.jpg" width="200"/>
          </td>
          <td style="text-align: center">
-            <img src="https://raw.githubusercontent.com/anagatadev/crop_edge_detection/master/screenshots/android/4.png" width="200"/>
+            <img src="https://raw.githubusercontent.com/faisalramdan17/crop_edge_detection/master/screenshots/android/4.jpg" width="200"/>
          </td>
       </tr>
    </table>
@@ -61,16 +61,16 @@ String imagePath = await CropEdgeDetection.detectEdge;
    <table>
       <tr>
          <td style="text-align: center">
-            <img src="https://raw.githubusercontent.com/anagatadev/crop_edge_detection/master/screenshots/ios/1.PNG" width="200"/>
+            <img src="https://raw.githubusercontent.com/faisalramdan17/crop_edge_detection/master/screenshots/ios/1.jpg" width="200"/>
          </td>
          <td style="text-align: center">
-            <img src="https://raw.githubusercontent.com/anagatadev/crop_edge_detection/master/screenshots/ios/2.PNG" width="200" />
+            <img src="https://raw.githubusercontent.com/faisalramdan17/crop_edge_detection/master/screenshots/ios/2.jpg" width="200" />
          </td>
          <td style="text-align: center">
-            <img src="https://raw.githubusercontent.com/anagatadev/crop_edge_detection/master/screenshots/ios/3.PNG" width="200"/>
+            <img src="https://raw.githubusercontent.com/faisalramdan17/crop_edge_detection/master/screenshots/ios/3.jpg" width="200"/>
          </td>
          <td style="text-align: center">
-            <img src="https://raw.githubusercontent.com/anagatadev/crop_edge_detection/master/screenshots/ios/4.PNG" width="200"/>
+            <img src="https://raw.githubusercontent.com/faisalramdan17/crop_edge_detection/master/screenshots/ios/4.jpg" width="200"/>
          </td>
       </tr>
    </table>

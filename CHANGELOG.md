@@ -1,11 +1,11 @@
-## 1.0.0
+## 1.0.2
 
-* Initial release.
+* Enable Copping Screen.
 
 ## 1.0.1
 
 * Fix Bug when iOS Build : Update code JPEG converter.
 
-## 1.0.2
+## 1.0.0
 
-* Enable Copping Screen.
+* Initial release.
